@@ -80,7 +80,6 @@ public abstract class Bag {
         }
 
         this.contents = new_items;
-
     }
 
     /**
