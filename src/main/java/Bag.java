@@ -79,6 +79,8 @@ public abstract class Bag {
             new_items[i] = this.contents[i];
         }
 
+        this.contents = new_items;
+
     }
 
     /**
